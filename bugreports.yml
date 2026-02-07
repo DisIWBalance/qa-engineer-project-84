@@ -22,3 +22,14 @@
     Должна открываться главная страница сайта с товарами
   actual-result: |
     Бесконечная загрузка сайта
+
+- summary: |
+    Поехала разметка сайта в мобильной версии 
+  environment: |
+    iPhone SE
+  steps-to-reproduce: |
+    1.Перейти по сылке https://products-store-ru.hexlet.app
+  expected-result: |
+    Главная страница должна быть адаптирована,как на компьютере
+  actual-result: |
+    Ошибка на скриншоте баг 2
