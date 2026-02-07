@@ -48,8 +48,7 @@ test-cases:
   - summary: |
       Проверка работоспособности фильтра по цене
     status: fail
-
-  bugreports:
+bugreports:
   - summary: |
       Не подгружаются карточки товаров при в ходе с русского ip
     environment: |
