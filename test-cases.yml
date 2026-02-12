@@ -20,7 +20,8 @@
   prerequisites: |
     Открыт раздел магазин  
     Поле "Поиск" пустое
- test-data: | Empty
+ test-data: |
+ Empty
   steps:
     Нажимае на слово "Категория"
     Выбираем категорию "furniture"
